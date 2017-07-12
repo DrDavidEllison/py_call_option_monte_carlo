@@ -1,3 +1,3 @@
-# quant-fin
+# quantitative_finance_python
 
-Example model for quantitative finance
+Various examples of pricing and risk models written in python
